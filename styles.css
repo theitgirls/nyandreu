@@ -9,3 +9,14 @@ h1 {color:beige;
 h2 {color: saddlebrown}
 h3 {color: saddlebrown}
 a {color: midnightblue}
+
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: antiquewhite;
+    }
+
+nav a {color: maroon;}
+nav {color: maroon;}
+
+nav a:hover {background-color: burlywood}
