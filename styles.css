@@ -20,3 +20,11 @@ nav a {color: maroon;}
 nav {color: maroon;}
 
 nav a:hover {background-color: burlywood}
+
+div {
+    border: 1px solid black;
+    margin: 30px;
+    padding: 50px;
+    background-color: blanchedalmond;
+    border-radius: 25px;
+}
